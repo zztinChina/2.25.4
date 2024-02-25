@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\vs编译器\2.21\FileName.cpp(17,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs编译器\2.21\FileName.cpp(25,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  2.21.vcxproj -> D:\vs编译器\2.21\x64\Debug\2.21.exe
